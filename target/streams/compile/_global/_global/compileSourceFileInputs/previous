@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/Users/atsuki/develop/LeetCode/twoSum.scala","df72bd0745df81a8eb77cd3b1953504480daa056"]],"lastModifiedTimes":[]}}]
